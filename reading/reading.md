@@ -9,7 +9,15 @@
 
 
 
-class 
+class sort
+{
+  public:
+    int arr;
+    
+    
+    
+    
+};
     
     
 ```
